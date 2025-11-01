@@ -1,12 +1,42 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛒 Retail Billing System – Frontend
 
-Currently, two official plugins are available:
+This is the **frontend** of the Retail Billing System project, built with **React (Vite)**.  
+It provides an interactive and responsive user interface for managing Items, generating bills, and viewing summaries.
+This project was developed for a real-world retail client and includes all essential billing features such as:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Category & Product Management  
 
-## Expanding the ESLint configuration
+✅ File Upload (Image) Support  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ REST APIs with Spring Boot  
+
+✅ Image Handling from File System  
+
+✅ Dynamic UI built with React + Bootstrap  
+
+✅ Real-time UI Updates  
+
+✅ Search and Delete Features  
+
+✅ Responsive Design
+
+
+## 🚀 Tech Stack
+- ⚛️ React (Vite)
+- 💅 CSS3
+- 🧩 JavaScript (ES6+)
+- 🌐 Axios (for API calls)
+- 🔐 MySQL (via backend API)
+- 🖥️ Deployed on Netlify
+
+---
+
+## ⚙️ Features
+- Responsive UI for desktop & mobile
+- Add, delete items
+- Real-time bill calculation
+- API integration with Spring Boot backend
+- Smooth navigation using React Router
+
